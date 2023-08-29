@@ -7,7 +7,7 @@
     "phone": "808-277-5594",
     "website": "https://juvyannl.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": 1440 Holelua Place"", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": 1440 Holelua Place", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "juvyannl", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "juvyannlucero", "url": "https://www.linkedin.com/in/juvyannlucero/" },
