@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Juvy Ann Lucero",
+    "label": "UH Manoa Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "juvyannl@hawaii.edu",
+    "phone": "808-277-5594",
+    "website": "https://juvyannl.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": 1440 Holelua Place"", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "juvyannl", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "juvyannlucero", "url": "https://www.linkedin.com/in/juvyannlucero/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "juvyvnxo", "url": "http://instagram.com/juvyvnxo" }
     ]
   },
   "interests": [
@@ -25,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -98,10 +98,11 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "B2B Award",
+      "date": "October 17, 2022",
+      "awarder": "Kapi'olani Community College STEM Program",
+      "summary": "National Science Foundation Bridges to Baccalaureate: Strategic Alliance for Minority
+                  Participation (NSF B2B STAMP TWO) Award "
     },
     {
       "title": "First place",
