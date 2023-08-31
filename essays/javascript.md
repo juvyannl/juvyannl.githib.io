@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why learn JavaScript?"
+title: "JavaScript makes a coder's heart sing"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
@@ -13,9 +13,9 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/JavaScript-logo.png">
 
-*Why not? It's AMAZING!*
+*Why learn JavaScript? It's AMAZING!*
 
-Pre-semester of my Software Engineering class, I learned the basics of how to write in JavaScript. I learned the basics in under a day and enjoyed writing it. It's my new favorite tool to use out of every other language. What is it you may ask... JavaScript is one of the most popular and likeable languages according to majority of statistics. It has abilities that can make a website or applications come to life. 
+Pre-semester of my Software Engineering college class, I learned the basics of how to write in JavaScript. I learned the basics in under a day and enjoyed writing it because its user-friendly and more dynamic. It's my new favorite tool to use out of every other language. What is it you may ask... JavaScript is one of the most popular and likeable languages according to majority of statistics. It has abilities that can make a website or applications come to life. 
 
 ## Java and JavaScript are NOT the same
 
