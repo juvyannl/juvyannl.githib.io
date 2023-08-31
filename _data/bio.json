@@ -11,16 +11,14 @@
     "profiles": [
       { "network": "github", "username": "juvyannl", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "juvyannlucero", "url": "https://www.linkedin.com/in/juvyannlucero/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "juvyvnxo", "url": "http://instagram.com/juvyvnxo" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Front-end Development" },
+    { "name": "Cybersecurity" },
+    { "name": "Auto Mechanic" }
   ],
   "skills": [
     {
@@ -45,10 +43,10 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "ZARA
+      "position": "Sales Associate",
+      "website": "http://www.zara.com/",
+      "startDate": "2022",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -71,28 +69,27 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Student Room Facilitator for Undergraduate Students",
+      "website": "https://kapcc-research.wixsite.com/surf",
+      "position": "SURF Facilitator",
+      "startDate": "2023-09",
+      "endDate": "",
+      "summary": "Help facilitate each booth by making sure that both the student presenters and the attendees feel comfortable with the technology, helping to connect everyone to the proper resource, and creating a comfortable environment to make this event accessible for all of our students. In person volunteers will help with set-up, breakdown, and making sure that the event is running smoothly. ",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
+      "organization": "Web Administration for Timpuyog Organization",
+      "website": "https://manoa.hawaii.edu/rio/timpuyog/Home.html",
       "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2023-08-21",
+      "endDate": "Present",
+      "summary": "A student organization under the Ilokano language & Literature Program at University of Hawai'i at Manoa",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2023",
+        "Keep socials up to date"
       ]
     }
   ],
