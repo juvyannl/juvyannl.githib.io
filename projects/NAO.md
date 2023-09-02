@@ -26,8 +26,4 @@ NAO does not have a brain; it is not aware of what potential answers like “blu
 ## Conclusion
 Overall, programming a robot from scratch is challenging. Everything that is done and achieved is by trial and error. Everything that the robot knows and how it interacts must be coded in. It was found for it easier to ask non open ended questions for a much less chance of error. Working with NAO gave me a glimpse of the many problems that come with working with robots and ways to solve them.  
 
-Here is some example code to illustrate Simple Schema use:
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
