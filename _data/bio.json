@@ -2,7 +2,7 @@
   "basics": {
     "name": "Juvy Ann Lucero",
     "label": "UH Manoa Student",
-    "picture": "src=../img/cotton/juvy_propic.png",
+    "picture": "img/cotton/juvy_propic.png",
     "email": "juvyannl@hawaii.edu",
     "phone": "808-277-5594",
     "website": "https://juvyannl.github.io",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++", "Microsoft" ]
     }
   ],
   "education": [
@@ -38,9 +38,9 @@
       "startDate": "2020",
       "endDate": "Present",
       "courses": [
-        "- CSCI Intro to Computer Science I/II",
-        "- CSCI Discrete Mathematics I/II",
-        "- CSCI Program Structure"
+        "CSCI Intro to Computer Science I/II",
+        "CSCI Discrete Mathematics I/II",
+        "CSCI Program Structure"
       ]
     }
   ],
@@ -51,7 +51,7 @@
       "website": "http://www.zara.com/",
       "startDate": "2022",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
         "Processed cash, credit, and return payments",
         "Maintained exceptional customer service standards",
