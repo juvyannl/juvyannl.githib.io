@@ -2,7 +2,7 @@
   "basics": {
     "name": "Juvy Ann Lucero",
     "label": "UH Manoa Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/picture_me.png",
     "email": "juvyannl@hawaii.edu",
     "phone": "808-277-5594",
     "website": "https://juvyannl.github.io",
@@ -17,8 +17,8 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Front-end Development" },
-    { "name": "Cybersecurity" },
-    { "name": "Auto Mechanic" }
+    { "name": "Game Development" },
+    { "name": "Cars" }
   ],
   "skills": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
@@ -35,9 +35,12 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2019",
+      "startDate": "2020",
       "endDate": "Present",
       "courses": [
+        "- CSCI Intro to Computer Science I/II",
+        "- CSCI Discrete Mathematics I/II",
+        "- CSCI Program Structure"
       ]
     }
   ],
@@ -50,20 +53,9 @@
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Processed cash, credit, and return payments",
+        "Maintained exceptional customer service standards",
+        "Build a strong relationship with customers to connect on a personal level to understand what they want"
       ]
     }
   ],
@@ -81,14 +73,13 @@
       ]
     },
     {
-      "organization": "Web Administration for Timpuyog Organization",
+      "organization": "Timpuyog Organization",
       "website": "https://manoa.hawaii.edu/rio/timpuyog/Home.html",
-      "position": "Professional organization involvement",
+      "position": "Web Administration",
       "startDate": "2023-08-21",
       "endDate": "Present",
       "summary": "A student organization under the Ilokano language & Literature Program at University of Hawai'i at Manoa",
       "highlights": [
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2023",
         "Keep socials up to date"
       ]
     }
@@ -99,12 +90,6 @@
       "date": "October 17, 2022",
       "awarder": "Kapi'olani Community College STEM Program",
       "summary": "National Science Foundation Bridges to Baccalaureate: Strategic Alliance for Minority Participation (NSF B2B STAMP TWO) Award."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
