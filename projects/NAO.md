@@ -13,7 +13,7 @@ labels:
 summary: "Used Choregraphe to allows us to connect to NAO and create animations and mimic human behavior."
 ---
 
-<img class="img-fluid" src="../img/vacay/NAO_home_page.jpg">
+<img width="100px" class="img-fluid" src="../img/vacay/NAO_home_page.jpg">
 
 ## Introduction
 A little background about NAO, it is the first humanoid robot created by Aldebaran Robotics in 2005. The robot has built-in sensors to help closely mimic human behavior. It has become recognized as the standard robotized for education and research purposes. To interact with the robot, I utilized Choreograph which is a multi-platform desktop application that allows users to create animations, behaviors, and dialog. It is pretty cool how it works, you could drag and drop items with code built within the icons. After dragging and dropping the actions you want, you simply connect those actions to form your program, creating a flow diagram. Choregraphe is the core element to relay how to monitor and control the robot. 
