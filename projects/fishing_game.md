@@ -13,7 +13,7 @@ summary: "My team developed a fishing game as a final project for my ICS 211 cla
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/micromouse/fishgame.png" class="img-thumbnail" >
+  <img src="../img/micromouse/fishgame.png" class="img-thumbnail" >
 </div>
 
 This game is a two player fishing tournament game using I_a object classes. Two players will alternate turns on the same computer. The players will catch fish and put them into a "sack" (an ArrayList, sorted in descending order by length)
@@ -31,7 +31,7 @@ This phase is the main part of the game, the fishing tournament should last for 
 This project demonstrates technical implementation while also working with others using Java. 
 
 <div class="text-center p-4">
-  <img src="../img/micromouse/example_game.png" class="img-thumbnail" >
+  <img width="500px" src="../img/micromouse/example_game.png" class="img-thumbnail" >
 </div>
 
 ### Game Over - Phase 3
