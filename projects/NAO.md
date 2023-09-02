@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/NAO.jpg
+image: img/vacay/NAO_2.jpg
 title: "Programming for Basic Artifical Intelligence using NAO Robots and Choregraphe"
 date: 2022
 published: true
