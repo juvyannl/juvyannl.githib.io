@@ -16,11 +16,7 @@ summary: "World Surf League Partnership: Designed, Modeled, and Built a Portable
 
 <img class="img-fluid" src="../img/cotton/WSL_trailer.png">
 
-Learn more about the [WSL trailer]([http://landoflisp.com/](https://www.hsta.org/news/recent-stories/teacher-leads-farrington-students-to-complete-surfing-trailer-project/)).!
-
-<hr>
-
-<pre>
+Learn more about the [WSL trailer]([http://landoflisp.com/](https://www.hsta.org/news/recent-stories/teacher-leads-farrington-students-to-complete-surfing-trailer-project/))!
 
 The World Surf League honorably chose Farrington High School to design and build a new improved trailer that meets their needs. The goal is to construct a durable and self-sustaining trailer for the customers and the clients to enjoy. 
 
