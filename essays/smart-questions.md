@@ -20,58 +20,41 @@ We all know that learning a programming language is not an easy thing to do. It 
 I mean I guess so... [Stack Overflow](https://stackoverflow.com) itself even has a own article to help users learn [how to ask a good question](https://stackoverflow.com/help/how-to-ask). The article has a guideline to follow that will make sure you're asking a good question. The question needs to be on-topic and have a title that sums up the problem. 
 
 Example:
+
 Bad: JavaScript Confusion
+
 Good: Why does str == "value" evaluate to false when str is set to "value"?
 
-This article "[why i'm getting this error in rust? while running cargo in terminal]{https://stackoverflow.com/questions/59102067/why-im-getting-this-error-in-rust-while-running-cargo-in-terminal}" did not do well on asking the question. The author should have done more research before posting a question. It was marked as a duplicate or showed that there was any research effort.
+This article "[why i'm getting this error in rust? while running cargo in terminal](https://stackoverflow.com/questions/59102067/why-im-getting-this-error-in-rust-while-running-cargo-in-terminal)" did not do well on asking the question. The author should have done more research before posting a question. It was marked as a duplicate or showed that there was any research effort.
 
 ## What’s a smart question?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved. In the following example, the title is clear and succint. Granted, it’s a relatively easy question to answer. But perhaps it is only easy to answer because it is phrased well. Following the good question, the user continues with an example of what they’ve tried.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+A question from Richard Garside asked the community: [var functionName = function() {} vs function functionName() {}](https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname)
 
+I've recently started maintaining someone else's JavaScript code. I'm fixing bugs, adding features and also trying to tidy up the code and make it more consistent.
+
+The previous developer used two ways of declaring functions and I can't work out if there is a reason behind it or not.
+
+The two ways are:
 ```
-Q: python date of the previous month
-I am trying to get the date of the previous month with python. Here is what i've tried:
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-I have solved this trouble in bash with:
-echo $(date -d"3 month ago" "+%G%m%d")
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-Thanks for your help!
+var functionOne = function() {
+    // Some code
+};
 ```
+And,
+```
+function functionTwo() {
+    // Some code
+}
+```
+What are the reasons for using these two different methods and what are the pros and cons of each? Is there anything that can be done with one method that can't be done with the other?
+
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-Like this:
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-```
-
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+The asker received forty-one possible answers, and they were successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
 ## The foolproof way to get ignored.
 
