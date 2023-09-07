@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-We all know that learning a programming language is not an easy thing to do. It takes time and practice to be the best at it. Not everyone knows the answer to everything nor well documented. 
+Many people say that there are no right or wrong answers or there are no stupid questions. But is that really true? When is comes to computer science, it is key that programmers have a strong suit in communication in order to lead to both efficient and effective help. We all know that learning a programming language is not an easy thing to do. It takes time and practice to be the best at it. Not everyone knows the answer to everything nor well documented. 
 
 ## Is there really such thing as a stupid question?
 
@@ -27,7 +27,7 @@ Good: Why does str == "value" evaluate to false when str is set to "value"?
 
 This article "[why i'm getting this error in rust? while running cargo in terminal](https://stackoverflow.com/questions/59102067/why-im-getting-this-error-in-rust-while-running-cargo-in-terminal)" did not do well on asking the question. The author should have done more research before posting a question. It was marked as a duplicate or showed that there was any research effort.
 
-## What’s a smart question?
+## What is a smart question?
 
 Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved. In the following example, the title is clear and succint. Granted, it’s a relatively easy question to answer. But perhaps it is only easy to answer because it is phrased well. Following the good question, the user continues with an example of what they’ve tried.
 
