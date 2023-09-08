@@ -11,18 +11,22 @@ labels:
   - StackOverflow
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/kvk8okhlzdcmv11v4z0r.gif">
+<img width="1000px" class="rounded float-start pe-4" src="../img/smart-questions/kvk8okhlzdcmv11v4z0r.gif">
 
 Many people say that there are no right or wrong answers or there are no stupid questions. But is that really true? When is comes to computer science, it is key for programmers to have a strong suit in communication in order to lead to both efficient and effective help. We all know that learning a programming language is not an easy thing to do. It takes time and practice to be the best at it. Not everyone knows the answer to everything nor is well documented.
 
 ### Is there really such thing as a stupid question?
 
 I mean I guess so... when programmers have a question they usually resort to posting a question on [Stack Overflow](https://stackoverflow.com). On Stack Overflow it is basically a Q&A site for coders who seek answers or have a question. The site is fairly notorious for its strict rules on the different questions that can be asked. The website itself even has their own article to help users learn [how to ask a good question](https://stackoverflow.com/help/how-to-ask). The article has a guideline to follow that will make sure you're asking a good question or else you will probably will be called out or criticized and block your post. The question needs to be on-topic and have a title that sums up the problem. While also making sure you did some research before hand.
+
 ___
 Example of a good and bad question:
+
 Bad: JavaScript Confusion
+
 Good: Why does str == "value" evaluate to false when str is set to "value"?
 ___
+
 This article made by Carl Lee: ["JavaScript - Function not executing properly"](https://stackoverflow.com/questions/39680332/javascript-function-not-executing-properly) did not do well on giving a good title or question. The author should have done more research before posting a question because it was marked as a duplicate and showed that there was no research effort put in. One thing that went wrong, was that he inputted a long code which readers don't want to see. This essay would be way too long if I were to copy and paste it on here. Readers want authors to post minimal, complete, and verifiable code and just not just every single line in your code. The more code there is to go through, the less likely people can find your problem.
 
 ### What is a smart question?
