@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/kvk8okhlzdcmv11v4z0r.gif">
+<img class="img-fluid" src="../img/smart-questions/kvk8okhlzdcmv11v4z0r.gif">
 
 Many people say that there are no right or wrong answers or there are no stupid questions. But is that really true? When is comes to computer science, it is key for programmers to have a strong suit in communication in order to lead to both efficient and effective help. We all know that learning a programming language is not an easy thing to do. It takes time and practice to be the best at it. Not everyone knows the answer to everything nor is well documented.
 
