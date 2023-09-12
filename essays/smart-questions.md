@@ -11,13 +11,13 @@ labels:
   - StackOverflow
 ---
 
-<img class="img-fluid" src="../img/smart-questions/kvk8okhlzdcmv11v4z0r.gif">
+<img class="img-fluid" src="../img/smart-questions/kvk8okhlzdcmv11v4z0r.gif" alt="">
 
 Many people say that there are no right or wrong answers or there are no stupid questions. But is that really true? When is comes to computer science, it is key for programmers to have a strong suit in communication in order to lead to both efficient and effective help. We all know that learning a programming language is not an easy thing to do. It takes time and practice to be the best at it. Not everyone knows the answer to everything nor is well documented.
 
 ### Is there really such thing as a stupid question?
 
-I mean I guess so... when programmers have a question they usually resort to posting a question on [Stack Overflow](https://stackoverflow.com). On Stack Overflow it is basically a Q&A site for coders who seek answers or have a question. The site is fairly notorious for its strict rules on the different questions that can be asked. The website itself even has their own article to help users learn [how to ask a good question](https://stackoverflow.com/help/how-to-ask). The article has a guideline to follow that will make sure you're asking a good question or else you will probably will be called out or criticized and block your post. The question needs to be on-topic and have a title that sums up the problem. While also making sure you did some research before hand.
+I mean I guess so... when programmers have a question they usually resort to posting a question on [Stack Overflow](https://stackoverflow.com). On Stack Overflow it is basically a Q&A site for coders who seek answers or have a question. The site is fairly notorious for its strict rules on the different questions that can be asked. The website itself even has their own article to help users learn [how to ask a good question](https://stackoverflow.com/help/how-to-ask). The article has a guideline to follow that will make sure you're asking a good question or else you will probably will be called out or criticized and block your post. The question needs to be on-topic and have a title that sums up the problem. While also making sure you did some research beforehand.
 
 ___
 Example of a good and bad question:
@@ -58,7 +58,7 @@ What are the reasons for using these two different methods and what are the pros
 
 ____
 
-Richard's heading title was well understood and it's a summary of what he’s trying to figure out. He included all relevant tags that other users would type in on any search engine, making it easier to find. Another good thing about the question is that it’s not just a question. Instead of asking "Please help, I've tried everything! What is the difference between var functionName = function() {} and function functionName() {}? What are the pros and cons of each?" The asker kept it short, and easy enough for everyone to understand the confusion. The title is short but then futher explains when a user clicks the link to reveal what he has done and that he has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+Richard's heading title was well understood, and it's a summary of what he’s trying to figure out. He included all relevant tags that other users would type in on any search engine, making it easier to find. Another good thing about the question is that it’s not just a question. Instead of asking "Please help, I've tried everything! What is the difference between var functionName = function() {} and function functionName() {}? What are the pros and cons of each?" The asker kept it short, and easy enough for everyone to understand the confusion. The title is short but then futher explains when a user clicks the link to reveal what he has done and that he has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
 
 ### Conclusion
 Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution. When askers don’t put in this effort, their questions turn into “stupid question.” Based on the two forums that I have compared on Stack Overflow, “smart” questions do indeed lead to more effective and efficient answers but also helped me form a deeper understanding of what differs betwwen “smart” and “not smart” questions.

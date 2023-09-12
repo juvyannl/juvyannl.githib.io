@@ -9,9 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "juvyannl", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "juvyannlucero", "url": "https://www.linkedin.com/in/juvyannlucero/" },
-      { "network": "instagram", "username": "juvyvnxo", "url": "http://instagram.com/juvyvnxo" }
+      { "network": "github", "username": "juvyannl", "url": "https://github.com/juvyannl" },
+      { "network": "linkedin", "username": "juvyannlucero", "url": "https://www.linkedin.com/in/juvyannlucero/" }
     ]
   },
   "interests": [
@@ -48,7 +47,7 @@
     {
       "company": "ZARA",
       "position": "Sales Associate",
-      "website": "http://www.zara.com/",
+      "website": "https://www.zara.com/us/",
       "startDate": "2022",
       "endDate": "Present",
       "summary": "",

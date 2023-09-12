@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/trailer.png
 title: "World Surf League Partnership: Designed, Modeled, and Built a Portable Trailer"
-date: 2019
+date: 01-05-2019
 published: true
 labels:
   - Business
@@ -14,7 +14,7 @@ labels:
 summary: "World Surf League Partnership: Designed, Modeled, and Built a Portable Trailer"
 ---
 
-<img class="img-fluid" src="../img/cotton/WSL_trailer.png">
+<img class="img-fluid" src="../img/cotton/WSL_trailer.png" alt="">
 
 Learn more about the [WSL trailer](https://www.hsta.org/news/recent-stories/teacher-leads-farrington-students-to-complete-surfing-trailer-project/).
 
