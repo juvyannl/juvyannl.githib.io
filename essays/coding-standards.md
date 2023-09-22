@@ -14,7 +14,7 @@ labels:
 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/JavaScript-logo.png"  alt=""> 
+<img width="200px" class="rounded float-start pe-4" src="../img/ESLint.png"  alt=""> 
 
 ## My Realization of the Beauty of Code Standards
 We all know the pain of having errors, bugs, and inconsistencies in JavaScript. After using the tool ESLint with IntelliJ, it made my life  simplier and saved me a ton of time. For those who dont know that ESLint is, its a static code analysis tool that checks JavaScript code for common problems such as errors, indentation issues, and many more with Node.js installed. I've learned that code standards are important because it makes it easier for other programmers to read and understand your code. It gives an appealing and uniform apperance to the code. By using ESLint, it ensures that the code is consistent and that it follows the same structure and format throughout the whole program while creating cleaner, more efficient code
