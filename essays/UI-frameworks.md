@@ -13,10 +13,10 @@ labels:
 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap.jpeg"  alt=""> 
+<img width="250px" class="rounded float-start pe-4" src="../img/bootstrap.jpeg"  alt=""> 
 
 ## Introduction to UI frameworks
-What is a UI framework? It is a collection of pre-built components, libraries, and design elements. It is used to create the skeleton of a website and help developers build a website faster and easier. It is a collection of HTML, CSS, and JavaScript. There are a bunch of UI frameworks out there including Bootstrap, React, Angular, and many more. I've recently learned how to use Bootstrap and learned that it is one of the most popular UI frameworks out there. It is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains cascading style sheets that is used to control the appereance of a documnet written in HTML and can specficy a wide range of visual styles that includes the font, colors, margins, and more.
+What is a UI framework? It is a collection of pre-built components, libraries, and design elements. It is used to create the skeleton of a modern UI website and help developers build a website faster and easier. It is a collection of HTML, CSS, and JavaScript. There are a bunch of UI frameworks out there including Bootstrap, React, Angular, and many more. I've recently learned how to use Bootstrap and learned that it is one of the most popular UI frameworks out there. It is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains cascading style sheets that is used to provide an attractive look-and-feel to the website and can specficy a wide range of visual styles that includes the font, colors, margins, and more. For those that are wondering the difference between UI and UX. UI is how users interact with the system such as buttons, icons, and navigation bars. While UX on the other hand is how the system works and the overall experience with the product or service. If you're wanting to start going beyond CSS and HTML, I would recommend using Bootstrap because I believe it the easiest user-friendly web UI framework to use that ready-to-use components and elements. 
 
 ## The real purpose why we have to use UI frameworks
 
@@ -25,7 +25,7 @@ User interfaces play an important role in any web application. They are used by 
 - <strong>It saves time and more efficient</strong>
   - It make development faster. There is a wide rangle of ready-to-use components, and elements. A website that has been really helpful to me was the [Bootstrap documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/). It has a bunch of examples and templates that you can use to help you get started. It is very beginner friendly and easy to use.
 - <strong>It is responsive:</strong>
-  - It ensures the website looks good when rendered on different screen sizes like on mobile devices and tablets.
+  - It ensures the website looks good when rendered on different screen sizes like on mobile devices, tablets, and laptops.
 - <strong>It is consistent:</strong> 
   - It follows the same structure and format throughout the whole program while creating cleaner, more efficient code for the best user experience.
 - <strong>It is mobile/cross-browser friendly</strong>
