@@ -22,11 +22,15 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Javascript", "HTML", "Bootstrap", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "g++", "Microsoft" ]
+      "keywords": [ "MacOS", "GitHub", "g++" ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [ "Effective Communication", "Teamwork/Collaboration", "Emotional/Social Intelligence", "Fast Learner" ]
     }
   ],
   "education": [
@@ -39,7 +43,10 @@
       "courses": [
         "CSCI Intro to Computer Science I/II",
         "CSCI Discrete Mathematics I/II",
-        "CSCI Program Structure"
+        "CSCI Program Structure",
+        "CSCI Algorithms",
+        "Software Enginnering",
+        "Database Systems"
       ]
     }
   ],
@@ -54,7 +61,7 @@
       "highlights": [
         "Processed cash, credit, and return payments",
         "Maintained exceptional customer service standards",
-        "Build a strong relationship with customers to connect on a personal level to understand what they want"
+        "Build a strong relationship with customers to understand what they are looking for"
       ]
     }
   ],
@@ -65,21 +72,19 @@
       "position": "SURF Facilitator",
       "startDate": "2023-09",
       "endDate": "",
-      "summary": "Help facilitate each booth by making sure that both the student presenters and the attendees feel comfortable with the technology, helping to connect everyone to the proper resource, and creating a comfortable environment to make this event accessible for all of our students. In person volunteers will help with set-up, breakdown, and making sure that the event is running smoothly. ",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "summary": "Help facilitate each booth by making sure that both the student presenters and the attendees feel comfortable with the technology, helping to connect everyone to the proper resource, and creating a comfortable environment to make this event accessible for all of our students.",
     },
     {
       "organization": "Timpuyog Organization",
       "website": "https://manoa.hawaii.edu/rio/timpuyog/Home.html",
       "position": "Web Administration",
-      "startDate": "2023-08-21",
+      "startDate": "2023-06-21",
       "endDate": "Present",
       "summary": "A student organization under the Ilokano language & Literature Program at University of Hawai'i at Manoa",
       "highlights": [
-        "Keep socials up to date"
+        "Keep socials up to date",
+        "Educating people about the Filipino culture",
+        "Participate in community service and social activities"
       ]
     }
   ],
