@@ -6,12 +6,11 @@ title: "Artifical Intelligence"
 date: 2023-11-21
 published: true
 labels:
-  - Artificial Intelligence
-  - 
+  - Artificial Intelligence 
 
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/robot.jpeg"  alt=""> 
+<img width="340px" class="rounded float-start pe-4" src="../img/robot.jpeg"  alt=""> 
 
 ## Introduction
 
@@ -39,15 +38,17 @@ Artificial intelligence and software engineering collorate together because it a
 
 **Explaining code:** This is one of this strong area of AI, since it’s explanation is adjustable base on your needs and provides a lot of personable examples instead of hard text explanation. I find myself using AI a lot to explain certain use of Code and it often net a positive result.
 
-**Writing code:** I use AI a bit when writing code like when I have to make new pages for my project or help with homework. For example, I used ChatGPT to ask, “Can you make a basic page just displaying the navbar and footer.” And I would give it my navbar for reference for example. It would make a skeleton page just so I wouldn’t have to manually type out code for the basic parts of the page.
+**Writing code:** I do use AI tools here and there when writing code as I mentioned before when I get stuck on a problem. For example, I ask ChatGPT, “How can I change my navbar color from white to blue.” It would reply back with the most accurate solution with a skeleton page. 
 
-**Documenting code:** Documenting goes hand in hand with understanding code. I know what my code is supposed to do and where it does it so I would be able to document what is going on myself. I would use AI to help me with the syntax of the documentation.
+**Documenting code:** Documenting code is very important for software engineers to get use to. Such as commenting, it will make the code more cleaner and easier to understand or find a error. I dont find AI tools helpful when explaining and suggested comments on my code. But on the other hand, I would use AI to help me with the syntax of the documentation.
 
-**Quality assurance:** Quality assurance was something I struggled with a lot. I would often get error messages because something went wrong and I’d turn to ChatGPT and would ask “How to fix this error: *insert error message here” and it would pop up a step by step solution to my issue. Sometimes this would work, but other times it was not helpful at all
+**Quality assurance:** Quality assurance was one thing I struggled with a lot. When I would recieve error messages I would ask ChatGPT what wenet wrong in my code and it would provide a step by step solution to the error. Sometimes this would work, but other times it was not helpful at all. When ChatGPT's solution would still spit out an error, I would turn to my professor or classmates for help asking a smart-question.
+
+**Other uses in ICS 314:** ICS 314 is a great class to utilize and get use to AI. I think that AI is a great tool to use when you're stuck and need a fast solution. Althought not all of AI's answers are correct but it has helped me overcome multiple obstacles, from coding assignments and error troubleshooting.
 
 ## Impact on Learning and Understanding
 
-AI has definitely influenced my learning experience as it has impacted me on my comprehension, skill development, and problem solving abilities. Using AI has taught me that I really need to know what I am asking before I ask it a question.
+AI has definitely influenced my learning experience as it has impacted me on my knowledge, skill development, and problem solving skills. I've learned many things from AI from whenever I would get stuck on a problem. It definitely taught me to overcome my mistakes and learn from them. I noticed that AI tend to give better and informative solutions when asked a smart question but when asked a dumb question by the user, sometimes it wouldn't understand or would give a short answer to what it thinks you're trying to ask. Its great to think of AI as not a bad way such as cheating but is used between using AI as a tool to enhance learning and stop it from taking away the place of critical thinking and creativity.
 
 ## Practical Applications
 
