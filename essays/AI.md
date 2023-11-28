@@ -52,10 +52,12 @@ AI has definitely influenced my learning experience as it has impacted me on my 
 
 ## Practical Applications
 
-AI is very useful in the real world outside of ICS 314. One of the main points of AI is that it can speed up production of certain things. Software engineers and game designers won’t need to spend as much time coding as they could be testing new, exciting things rather than fixing basic bugs.
+AI is very extremely useful in the real world. One of the main points of AI is that it can speed up production of certain things. Software engineers and game designers won’t need to spend as much time coding as they could be testing new, exciting things rather than fixing basic bugs. On November 2023 I attended the annual [HACC](https://hacc.hawaii.gov) event. It is a state hackathon that brings students or residents to develop creative solutions to some of Hawaii’s toughest problems. This year there were projects that used AI to help solve problems such as a chatbox to help people with disabilities or to find a fast way to solve a problem and improving customer service from user queries. Also there are now autonomous vehicles that could be able to drive itself. Machine learning algorithms enable vechiles to perceive their environment and make decisions to navigate safely. 
+
+I have seen many practical applications of AI in my daily life. For example, when my phone is too far and my hands are busy, I simply ask Siri to dim my lights and Siri would do it for me. Now days, AI is slowing taking over labor jobs where in Las Vegas, I've seen two robot workers pour drinks out to customers inside of Planet Hollywood. It's crazy how technology and AI has evolved over the years. People have also found a way to use AI to change the tone of your voice to mimic Beyonce for example. It is very interesting to see how AI can be used in many different ways. 
 
 ## Challenges and Opportunities
-A challenge I have encountered while using AI is whether I am using it compromising my learning experience. It is really easy to just copy and paste my homework assignments into ChatGPT and have it do it for you.
+I would admit that the it was pretty hard on my learning experience because AI can generate answers in a split second. It is really easy to just copy and paste my homework assignments into ChatGPT and have it do it for you. I would not recommend using ChatGPT for every single assignment but to use it when you're stuck on a problem. AI has helped me resolve my issues and learn from my mistakes and prevent the issues from repeating. It is one of AI’s advantages in the development of practical skills that it can provide instant feedback on different coding techniques that speeds up the software engineering learning curve.
 
 ## Comparative Analysis
 
