@@ -1,24 +1,26 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns"
+title: "Patterns of Success"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-30
 published: true
 labels:
   - Design Patterns 
-
+  - Code Quality
+  - ESLint
+    
 ---
 
 <img width="340px" class="rounded float-start pe-4" src="../img/meme-patterns.png"  alt=""> 
 
-Design patterns are a reuseable solution to a commonly occurring problem in software design. It is a description or template for how to solve a problem that can be used in many different situations in a way to be efficient. It is a way to communicate with other programmers and to help them understand the code. 
+Design patterns are a reuseable solution to a commonly occurring problem in software design. It is a description or template for how to solve a problem that can be used in many different situations in a way to be efficient. It is a way to communicate with other programmers and to help them understand the code. It is extremely important to making coding assignments well-organized and easy to read. Design patterns have become a standard in the software development industry because many design patterns have best practices and facilitate code reusability by providing solutions instead of reinventing something that has already been done.
 
 After well researching the different types of design patterns, I've learned that there are many different types of design patterns that can be used in different situations such as:
 
 - **Creational patterns** mainly focus on object creation mechanisms that increase flexibility and reuse of existing code. 
 
-- **Singleton pattern** is a creational pattern that ensures that a class has only one instance and provides a global point of access to it.
+- **Singleton pattern** is a creational pattern that ensures that a class has only one instance and provides a global point of access to it. Singleton is basically a house key or car key that can only open one door. It ensures there is only one instance of a particular class. It is used in logging, caches, and configuration settings.
 
 - **Structural patterns** are about organizing different classes and objects to form larger structures to provide functionality and efficiency.
 
