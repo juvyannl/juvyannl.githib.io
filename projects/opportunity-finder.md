@@ -16,7 +16,7 @@ projecturl: "https://opportunity-finder.github.io/"
 
 ---
 
-<img class="img-fluid" src="../img/home-page-OP.png" alt="">
+<img width="800px" class="img-fluid" src="../img/home-page-OP.png" alt="">
 
 ## Overview
 
@@ -31,7 +31,7 @@ Me along with 3 other team members had 4 weeks to create a web application that 
 
 My contributions to this project include creating the add profile page, the edit profile page, log in, sign up, and footer. The first milestone I was in charge of the log in/sign up application where either students or companies can register or log in. The second and third milestone I was in charge on the student page, footer, and the company(add). Students who visit the site can create a profile with their interests (skills), preferred geographic location, link to their professional portfolio page, and many more. I also helped with the design of the home page and the profile page along with testing the application/documentation of this project. The screenshots below is an example page I created for this project.
 
-<img class="img-fluid" src="../img/add-profile.png" alt="">
+<img width="800px" class="img-fluid" src="../img/add-profile.png" alt="">
 
 ## My experience
 
