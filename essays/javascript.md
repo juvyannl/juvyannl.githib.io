@@ -4,7 +4,7 @@ type: essay
 title: "JavaScript Makes A Coder's Heart Sing"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: true
+published: false
 labels:
   - Software Engineering
   - Computer Science
