@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering"
+title: "Crafting Code: Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-13
 published: true
@@ -11,7 +11,7 @@ labels:
 
 ---
 
-<img width="340px" class="rounded float-start pe-4" src="../img/robot.jpeg"  alt=""> 
+<img width="340px" class="rounded float-start pe-4" src="../img/SFTWE.png" alt=""> 
 
 ## Experience 
 My experience first learning what the essential skills are for software engineers was very educational. I've aquired skills with fundamental software engineering concepts that include coding standards, functional programming, user interface frameworks, design patterns, and many more. As a college student, I aspire to become an software engineer some day and this experience espically helped me understand key concepts in the tech field. 
