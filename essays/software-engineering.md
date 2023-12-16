@@ -28,11 +28,6 @@ Coding standards are a set of guidelines, best practices, programming styles, an
 
 Functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a style of building the structure and elements of computer programs that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements.
 
-## User Interface Frameworks
+## Conclusion
 
-User interface frameworks are a collection of pre-built components, libraries, and design elements. It is used to create the skeleton of a modern UI website and help developers build a website faster and easier. It is a collection of HTML, CSS, and JavaScript. There are a bunch of UI frameworks out there including Bootstrap, React, Angular, and many more. Users today prefer a framework that is clean, interactive, and simple for a seamless user experience.
-
-## Design Patterns
-
-Design patterns are a reuseable solution to a commonly occurring problem in software design. It is a description or template for how to solve a problem that can be used in many different situations in a way to be efficient. It is a way to communicate with other programmers and to help them understand the code. It is extremely important to making coding assignments well-organized and easy to read. Design patterns have become a standard in the software development industry because many design patterns have best practices and facilitate code reusability by providing solutions instead of reinventing something that has already been done.
-
+The knowledge and skills I have learned in this class will help me with my journey to become a software engineer. Software engineering is not only about web application development but it goes way beyond that. For more information about [UI frameworks](https://juvyannl.github.io/essays/UI-frameworks.html), [coding standards](https://juvyannl.github.io/essays/coding-standards.html), and [design patterns](https://juvyannl.github.io/essays/design-patterns.html). Check out my other essays I wrote about them. I am excited to learn more about software engineering and how to apply it to my future career.
