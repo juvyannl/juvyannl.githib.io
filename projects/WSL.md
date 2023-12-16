@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/trailer.png
 title: "World Surf League Partnership: Designed, Modeled, and Built a Portable Trailer"
-date: 01-05-2019
+date: 01-05- 2019
 published: true
 labels:
   - Business
