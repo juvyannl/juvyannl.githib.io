@@ -12,7 +12,8 @@ labels:
   - Meteor
   - GitHub
 summary: "A web application that helps students find opportunities to gain experience and companies to find the perfect candidate."
-projecturl: "https://opportunity-finder.github.io/
+projecturl: "https://opportunity-finder.github.io/"
+
 ---
 
 <img class="img-fluid" src="../img/home-page-OP.png" alt="">
