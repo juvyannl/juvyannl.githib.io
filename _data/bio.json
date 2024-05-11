@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Juvy Ann Lucero",
+    "label": "UH Manoa Student",
+    "picture": "img/cotton/juvy_propic.png",
+    "email": "juvyannl@hawaii.edu",
+    "phone": "808-277-5594",
+    "website": "https://juvyannl.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "juvyannl", "url": "https://github.com/juvyannl" },
+      { "network": "linkedin", "username": "juvyannlucero", "url": "https://www.linkedin.com/in/juvyannlucero/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Front-end Development" },
+    { "name": "Game Development" },
+    { "name": "Cars" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", "HTML", "Bootstrap", "React" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "GitHub", "g++" ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [ "Effective Communication", "Teamwork/Collaboration", "Emotional/Social Intelligence", "Fast Learner" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020",
+      "endDate": "Present",
+      "courses": [
+        "CSCI Intro to Computer Science I/II",
+        "CSCI Discrete Mathematics I/II",
+        "CSCI Program Structure",
+        "CSCI Algorithms",
+        "Software Enginnering",
+        "Database Systems"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "ZARA",
+      "position": "Sales Associate",
+      "website": "https://www.zara.com/us/",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Processed cash, credit, and return payments",
+        "Maintained exceptional customer service standards",
+        "Build a strong relationship with customers to understand what they are looking for"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Student Room Facilitator for Undergraduate Students",
+      "website": "https://kapcc-research.wixsite.com/surf",
+      "position": "SURF Facilitator",
+      "startDate": "2023-09",
+      "endDate": "",
+      "summary": "Help facilitate each booth by making sure that both the student presenters and the attendees feel comfortable with the technology, helping to connect everyone to the proper resource, and creating a comfortable environment to make this event accessible for all of our students.",
+    },
+    {
+      "organization": "Timpuyog Organization",
+      "website": "https://manoa.hawaii.edu/rio/timpuyog/Home.html",
+      "position": "Web Administration",
+      "startDate": "2023-06-21",
+      "endDate": "Present",
+      "summary": "A student organization under the Ilokano language & Literature Program at University of Hawai'i at Manoa",
+      "highlights": [
+        "Keep socials up to date",
+        "Educating people about the Filipino culture",
+        "Participate in community service and social activities"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B2B Award",
+      "date": "October 17, 2022",
+      "awarder": "Kapi'olani Community College STEM Program",
+      "summary": "National Science Foundation Bridges to Baccalaureate: Strategic Alliance for Minority Participation (NSF B2B STAMP TWO) Award."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
