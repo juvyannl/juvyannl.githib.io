@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: essay
+type: essay
 image: img/OP-logo.png
 title: "Building Bridges in Code: Software Engineering Perspective"
 date: May 2024
