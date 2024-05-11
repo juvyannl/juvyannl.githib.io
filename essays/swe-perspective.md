@@ -9,7 +9,6 @@ labels:
   - Javascript
   - Software Engineering
   - GitHub
-
 <img width="340px" class="rounded float-start pe-4" src="../img/SFTWE.png" alt="">
 ---
 ## Experience
