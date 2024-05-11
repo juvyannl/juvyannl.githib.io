@@ -9,8 +9,11 @@ labels:
   - Javascript
   - Software Engineering
   - GitHub
-<img width="340px" class="rounded float-start pe-4" src="../img/SFTWE.png" alt="">
+
 ---
+
+<img width="340px" class="rounded float-start pe-4" src="../img/SFTWE.png" alt="">
+
 ## Experience
 
  In this project, we are called "Team Roots". We create this web application to her liking and her expectations.  The goal of this project is to create a web application that allows students to find opportunities to gain experience and companies to find the perfect candidate for the job. This project was created using IntelliJ, Javascript, HTML, Meteor, and GitHub.
