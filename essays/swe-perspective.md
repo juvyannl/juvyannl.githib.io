@@ -25,7 +25,6 @@ The solution: Our client, the Voluntree, aims to remove the friction between vol
 
 My contributions to this project include creating the nav-bar community page, and footer. I also helped with the design of the home page and the profile page along with testing the application/documentation of this project. The screenshots below is an example page I created for this project.
 
-<img width="800px" class="img-fluid" src="../img/add-profile.png" alt="">
 
 ## Should I recommend this to other students?
 
