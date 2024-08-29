@@ -42,9 +42,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science (expected Fall, 2024)",
+      "studyType": "",
       "startDate": "2020",
-      "endDate": "Dec 2024"
+      "endDate": "Dec 2024",
+      "courses": ""
     }
   ],
   "work": [
