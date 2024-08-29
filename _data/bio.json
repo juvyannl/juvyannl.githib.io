@@ -30,7 +30,8 @@
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "GitHub" ]
     },
-    { "name": "Hard Skills",
+    { 
+      "name": "Hard Skills",
       "keywords": [ "Microsoft Excel", "Tableau" ]
     },
     {
