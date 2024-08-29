@@ -6,7 +6,7 @@
     "email": "juvyannl@hawaii.edu",
     "phone": "808-277-5594",
     "website": "https://juvyannl.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "A reliable and trustworthy worker who is motivated to ensure a 110% professional service. Committedto assisting individuals and strongly focus on customer satisfaction. Willing to adapt to changingpriorities and challenge myself in a position to ensure growth in the company with knowledge gainedfrom working in various professional & retail environments.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "juvyannl", "url": "https://github.com/juvyannl" },
@@ -17,51 +17,49 @@
     { "name": "Software Engineering" },
     { "name": "Front-end Development" },
     { "name": "Game Development" },
+    { "name": "IT Help Desk" },
+    { "name": "Data Entry" },
     { "name": "Cars" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "HTML", "Bootstrap", "React" ]
+      "keywords": [ "C", "C++", "Javascript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "GitHub", "g++" ]
+      "keywords": [ "MacOS", "GitHub" ]
+    },
+    { "name": "Hard Skills",
+      "keywords": [ "Microsoft Excel", "Tableau" ]
     },
     {
       "name": "Soft Skills",
-      "keywords": [ "Effective Communication", "Teamwork/Collaboration", "Emotional/Social Intelligence", "Fast Learner" ]
+      "keywords": [ "Effective Communication", "Teamwork/Collaboration", "Fast Learner", "Time-management", "Customer Service" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2024)",
-      "studyType": "B.S.",
       "startDate": "2020",
-      "endDate": "Present",
-      "courses": [
-        "CSCI Intro to Computer Science I/II",
-        "CSCI Discrete Mathematics I/II",
-        "CSCI Program Structure",
-        "CSCI Algorithms",
-        "Software Enginnering",
-        "Database Systems"
-      ]
+      "endDate": "Dec 2024"
     }
   ],
   "work": [
     {
       "company": "ZARA",
-      "position": "Sales Associate",
+      "position": "Sales Associate/Cashier",
       "website": "https://www.zara.com/us/",
-      "startDate": "2022",
+      "startDate": "November 2021",
       "endDate": "Present",
       "summary": "",
       "highlights": [
         "Processed cash, credit, and return payments",
         "Maintained exceptional customer service standards",
-        "Build a strong relationship with customers to understand what they are looking for"
+        "Build a strong relationship with customers to understand what they are looking for",
+        "Consistently focusing on giving a friendly greeting at the fitting room and at the register",
+        "Ability to work in fast pace environment"
       ]
     }
   ],
@@ -82,18 +80,11 @@
       "endDate": "Present",
       "summary": "A student organization under the Ilokano language & Literature Program at University of Hawai'i at Manoa",
       "highlights": [
-        "Keep socials up to date",
+        "Maintained and organized digital records of the organization's events, activities, and community service initiatives.",
+        "Managed and updated social media platforms to ensure accurate and timely information for the Timpuyog Organization, enhancing online engagement.",
         "Educating people about the Filipino culture",
         "Participate in community service and social activities"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B2B Award",
-      "date": "October 17, 2022",
-      "awarder": "Kapi'olani Community College STEM Program",
-      "summary": "National Science Foundation Bridges to Baccalaureate: Strategic Alliance for Minority Participation (NSF B2B STAMP TWO) Award."
     }
   ],
   "references": [
